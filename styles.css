@@ -1,0 +1,40 @@
+* {
+    /* border: 2px solid blue; */
+}
+
+.washed_blueberries {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.section_blueberry-intro {
+    display: flex;
+}
+
+.img_blueberry {
+    margin: 10px;
+}
+
+.recipe_description-blueberry {
+    margin: 20px 10px;
+    padding: 20px;
+    border: 1px solid rgb(42, 74, 180);
+    
+}
+
+.title {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.list {
+    margin: 0 30px;
+}
+
+.list_item {
+    padding: 10px 5px;
+}
+
+.bottom_list {
+    margin-bottom: 30px;
+}
